@@ -5,17 +5,6 @@ EOS version of R1 Protocol is under development internal.
 1. Relayer has the best matching performance as same as the CEX(Centralized Exchange);
 2. Users keep their assets in their wallet with no need to trsut the contract;
 
-## Features
-* Asset No-Custodial 
-* Free Trust & Security
-* High Performance Matching
-* Shared Liquidity
-
-### Planning Features
-* Support lend and unlend;
-* Integrate bancor protol to provide liquidity;
-* Support margin trade;
-
 ## Procedure
 1.User authorize contract with the right of transfer tokens of eos system;  
 2.User sign his order(buy/sell token at a price) and submmit it to the relayer;  
@@ -26,3 +15,16 @@ EOS version of R1 Protocol is under development internal.
 * Verify maker and taker's signature;
 * Verify maker and taker's price matched;
 * Exchange maker and tkaer's token at best price;
+
+## Features
+* Asset No-Custodial 
+* Free Trust & Security
+* High Performance Matching
+* Shared Liquidity
+
+## Planning Features
+* Support lend and unlend;
+* Integrate bancor protol to provide liquidity;
+* Support margin trade;
+
+
