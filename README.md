@@ -11,7 +11,7 @@ EOS version of R1 Protocol is under development internal.
 * High Performance Matching
 * Shared Liquidity
 
-## Operate Procedure
+## Procedure
 1.User authorized contract with the right of transfer tokens of eos system;  
 2.User sign his order(buy/sell token at a price) and submmit it to the relayer;  
 3.Relayer match the orders and commit it to the contract's trade method;  
