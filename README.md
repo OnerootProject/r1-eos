@@ -11,11 +11,16 @@ EOS version of R1 Protocol is under development internal.
 * High Performance Matching
 * Shared Liquidity
 
+### Planning Features
+* Support lend and unlend;
+* Integrate bancor protol to provide liquidity;
+* Support margin trade;
+
 ## Procedure
-1.User authorized contract with the right of transfer tokens of eos system;  
+1.User authorize contract with the right of transfer tokens of eos system;  
 2.User sign his order(buy/sell token at a price) and submmit it to the relayer;  
 3.Relayer match the orders and commit it to the contract's trade method;  
-4. R1 contract will do this:  
+4. R1 contract's trade will do this:  
 * Verify maker and taker's order info;
 * Verify maker and taker's order not completed/canceled;
 * Verify maker and taker's signature;
