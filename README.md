@@ -14,7 +14,7 @@ EOS version of R1 Protocol is under development internal.
 * Verify maker and taker's order not completed/canceled;
 * Verify maker and taker's signature;
 * Verify maker and taker's price matched;
-* Exchange maker and tkaer's token at best price;
+* Exchange maker and taker's token at best price;
 
 ## Features
 * Asset No-Custodial 
